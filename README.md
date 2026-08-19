@@ -1,9 +1,13 @@
-# Oman Vásquez — El Analista
+# Oman Vasquez — Product Builder
 
-> "Vivimos en un mundo donde economía, geopolítica y mercados se cruzan a diario. Mi trabajo es conectar los puntos y darte claridad donde otros solo ven ruido."
+Construyo productos prácticos para problemas reales.
 
-Soy creador de **El Analista** y columnista en **Investing.com**.
+**Actual:** App **CERCA** — compra y venta local en el municipio + https://oman-vasquez.web.app
+**Background:** Creador de El Analista y columnista en Investing.com (economía y mercados)
 
-Analizo economía, geopolítica, oro y plata con datos y contexto.
+### Lo que construyo aquí en GitHub
+- 📱 **CERCA** - Marketplace local para el municipio
+- 🌐 **oman-vasquez.web.app** - Mi web personal
+- 🛠️ Próximas apps y herramientas de datos
 
-🌐 Web: https://oman-vasquez.web.app
+Stack: Android / Web / Datos • San Carlos, Cojedes, Venezuela
